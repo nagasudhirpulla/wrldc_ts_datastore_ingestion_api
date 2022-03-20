@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TsDataStoreApi", "TsDataStoreApi\TsDataStoreApi.csproj", "{81666D10-9EA9-4B59-ABBA-169987D1DED0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TsDataStoreApi", "src\TsDataStoreApi\TsDataStoreApi.csproj", "{81666D10-9EA9-4B59-ABBA-169987D1DED0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2E1F3E04-A154-4C49-87D7-171120609879}"
 	ProjectSection(SolutionItems) = preProject
